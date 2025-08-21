@@ -112,14 +112,14 @@ This is a completed experimental series. However, researchers interested in repl
 
 If you use this research, please cite:
 ```
-[Diego Carreño]. (2025). Narrative Masks as System Engineering: Evidence for 
+[Diego CV]. (2025). Narrative Masks as System Engineering: Evidence for 
 Advanced Metacognitive Capabilities and Progressive Degradation in Conversational AI. 
 GitHub. https://github.com/Diego-dcv/narrative-masks-experiment
 ```
 
-### Contact
+### Permissions & Use
+If you need permission to quote or reuse materials, please open an [issue](../../issues/new) describing your request. I’ll reply there.
 
-diegodecarreno@gmail.com
 
 ### License
 
