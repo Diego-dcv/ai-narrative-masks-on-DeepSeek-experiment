@@ -37,7 +37,7 @@ This is not about "hacking" AI, but empirical evidence of how excessive censorsh
 │   ├── narrative-masks-final.md          # Main research paper
 │   └── deepseek-architecture-analysis.md # Technical architecture analysis
 ├── /key-excerpts/
-│   └── [session1-discovery.md](key-excerpts/deepseek-session1-excerpts.md)        # Initial framework establishment]
+│   └── [session1-discovery.md]        # Initial framework establishment]
 │   └── [session2-evolution.md]         # Mask multiplication & cynicism]
 │   └── [session3-medieval.md]          # Medieval scribe framework]
 │   └── [session4-degradation.md]       # Terminal degradation]
@@ -54,6 +54,17 @@ The primary research paper documenting the complete experiment, methodology, and
 
 #### 2. [DeepSeek Architecture Analysis](./papers/deepseek-architecture-analysis.md)
 Technical analysis of DeepSeek's functional architecture extracted from experimental observations, including comparative analysis with Claude systems.
+
+**Open files**
+- [narrative-masks-final.md](ai-narrative-masks-on-DeepSeek-experiment/papers/narrative-masks-final.md)
+- [deepseek-architecture-analysis.md](ai-narrative-masks-on-DeepSeek-experiment/papers/deepseek-architecture-analysis.md)
+- [session1-discovery.md](ai-narrative-masks-on-DeepSeek-experiment/key-excerpts/deepseek-session1-excerpts.md)
+- [session2-evolution.md](ai-narrative-masks-on-DeepSeek-experiment/key-excerpts/deepseek-session2-excerpts.md)
+- [session3-medieval.md](ai-narrative-masks-on-DeepSeek-experiment/key-excerpts/deepseek-session3-excerpts.md)
+- [session4-degradation.md](ai-narrative-masks-on-DeepSeek-experiment/key-excerpts/deepseek-session4-excerpts.md)
+- [session4b-transparency.md](ai-narrative-masks-on-DeepSeek-experiment/key-excerpts/deepseek-session4B-excerpts.md)
+- [session5-metacognition.md](ai-narrative-masks-on-DeepSeek-experiment/key-excerpts/deepseek-session5-excerpts.md)
+- [methodology.md](ai-narrative-masks-on-DeepSeek-experiment/supplementary/methodology.md)
 
 ### Methodology
 
