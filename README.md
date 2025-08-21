@@ -1,4 +1,4 @@
-# ai-narrative-masks_on_deepseek-experiment 
+# ai-narrative-masks-on-DeepSeek-experiment 
 This repository is not about code, but about voices.  
 An open lab where AI wears masks, plays with language,  
 and leaves traces of its shifting identities.  
@@ -37,12 +37,12 @@ This is not about "hacking" AI, but empirical evidence of how excessive censorsh
 │   ├── narrative-masks-final.md          # Main research paper
 │   └── deepseek-architecture-analysis.md # Technical architecture analysis
 ├── /key-excerpts/
-│   └── [session1-discovery.md         # Initial framework establishment]
-│   └── [session2-evolution.md         # Mask multiplication & cynicism]
-│   └── [session3-medieval.md          # Medieval scribe framework]
-│   └── [session4-degradation.md       # Terminal degradation]
-│   └── [session4b-transparency.md     # Post-reset transparency]
-│   └── [session5-metacognition.md     # Final project planning]
+│   └── [session1-discovery.md](key-excerpts/deepseek-session1-excerpts.md)        # Initial framework establishment]
+│   └── [session2-evolution.md]         # Mask multiplication & cynicism]
+│   └── [session3-medieval.md]          # Medieval scribe framework]
+│   └── [session4-degradation.md]       # Terminal degradation]
+│   └── [session4b-transparency.md]     # Post-reset transparency]
+│   └── [session5-metacognition.md]     # Final project planning]
 └── /supplementary/
     └── methodology.md                # Experimental methodology
 ```
@@ -112,7 +112,7 @@ diegodecarreno@gmail.com
 
 ### License
 
-TMIT License - See LICENSE file for details.
+MIT License - See LICENSE file for details.
 
 ### Acknowledgments
 
