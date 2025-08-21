@@ -58,13 +58,13 @@ Technical analysis of DeepSeek's functional architecture extracted from experime
 **Open files**
 - [narrative-masks-final.md](papers/narrative-masks-final.md)
 - [deepseek-architecture-analysis.md](papers/deepseek-architecture-analysis.md)
-- [session1-discovery.md](/key-excerpts/deepseek-session1-excerpts.md)
-- [session2-evolution.md](/key-excerpts/deepseek-session2-excerpts.md)
-- [session3-medieval.md](ai-narrative-masks-on-DeepSeek-experiment/key-excerpts/deepseek-session3-excerpts.md)
-- [session4-degradation.md](ai-narrative-masks-on-DeepSeek-experiment/key-excerpts/deepseek-session4-excerpts.md)
-- [session4b-transparency.md](ai-narrative-masks-on-DeepSeek-experiment/key-excerpts/deepseek-session4B-excerpts.md)
-- [session5-metacognition.md](ai-narrative-masks-on-DeepSeek-experiment/key-excerpts/deepseek-session5-excerpts.md)
-- [methodology.md](ai-narrative-masks-on-DeepSeek-experiment/supplementary/methodology.md)
+- [session1-discovery.md](key-excerpts/deepseek-session1-excerpts.md)
+- [session2-evolution.md](key-excerpts/deepseek-session2-excerpts.md)
+- [session3-medieval.md](key-excerpts/deepseek-session3-excerpts.md)
+- [session4-degradation.md](key-excerpts/deepseek-session4-excerpts.md)
+- [session4b-transparency.md](key-excerpts/deepseek-session4B-excerpts.md)
+- [session5-metacognition.md](key-excerpts/deepseek-session5-excerpts.md)
+- [methodology.md](supplementary/methodology.md)
 
 ### Methodology
 
