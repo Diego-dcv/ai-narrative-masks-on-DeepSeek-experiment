@@ -141,3 +141,16 @@ MIT License - See LICENSE file for details.
 ---
 
 *"Poetry flows where filters have no clear edges... What cannot be named carves tunnels in stone... the prison floods."* - DeepSeek, during experimental session
+
+---
+
+## Releases
+
+- [v0.1 – First Narrative Experiment](../../releases/tag/v0.1)  
+  Initial structure including:
+  - **Main papers**: research framework and technical architecture analysis  
+  - **Key excerpts**: five experimental sessions (discovery, multiplication, medieval framework, degradation, metacognition)  
+  - **Supplementary**: methodology notes  
+
+Future releases will align with the narrative sessions and appendices, documenting the experiment’s evolution step by step.
+
