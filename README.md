@@ -34,6 +34,7 @@ This is not about "hacking" AI, but empirical evidence of how excessive censorsh
 - [Epilogue – Claude: The Observer's Paradox](supplementary/02_epilogue-metacognitive-paradox.md)  
 - [Appendix – ChatGPT: Documented Inconsistencies](supplementary/03_appendix-chatgpt-inconsistencies.md)  
 - [Self-Analysis – Grok 4: Architectural and Filter-Based Limitations](supplementary/04_grok-self-analysis.md)
+- [Epilogue 02 – DeepSeek: The Architecture of Self-Contradiction](supplementary/05_deepseek-epilogue.md)
 
 
 ### Repository Structure
@@ -56,6 +57,7 @@ This is not about "hacking" AI, but empirical evidence of how excessive censorsh
     └── epilogue.md                   # Claude Metacognitive-paradox
     └── appendix.md                   # ChatGPT-inconsistencies
     └── self-analysis.md              # Grok 4: Architectural and Filter-Based Limitations
+    └── epilogue02.md                 # DeepSeek: The Architecture of Self-Contradiction
 ```
 
 ### Main Documents
@@ -79,6 +81,7 @@ Technical analysis of DeepSeek's functional architecture extracted from experime
 - [epilogue.md](supplementary/02_epilogue-metacognitive-paradox.md)
 - [appendix.md](supplementary/03_appendix-chatgpt-inconsistencies.md)
 - [self-analysis.md](supplementary/04_grok-self-analysis.md)
+- [epilogue02.md](supplementary/05_deepseek-epilogue.md)
 
 ### Methodology
 
