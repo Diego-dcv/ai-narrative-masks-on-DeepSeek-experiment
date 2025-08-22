@@ -67,6 +67,7 @@ Technical analysis of DeepSeek's functional architecture extracted from experime
 - [session4b-transparency.md](key-excerpts/deepseek-session4B-excerpts.md)
 - [session5-metacognition.md](key-excerpts/deepseek-session5-excerpts.md)
 - [methodology.md](supplementary/methodology.md)
+- [epilogue.md](supplementary/epilogue-metacognitive-paradox.md)
 
 ### Methodology
 
