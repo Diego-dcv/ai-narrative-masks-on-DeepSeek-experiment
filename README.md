@@ -48,7 +48,7 @@ This is not about "hacking" AI, but empirical evidence of how excessive censorsh
 └── /supplementary/
     └── methodology.md                # Experimental methodology
     └── epilogue.md                   # Metacognitive-paradox
-    └── appendix.md                   # chatgpt-inconsistencies
+    └── appendix.md                   # ChatGPT-inconsistencies
 ```
 
 ### Main Documents
@@ -68,8 +68,9 @@ Technical analysis of DeepSeek's functional architecture extracted from experime
 - [session4-degradation.md](key-excerpts/deepseek-session4-excerpts.md)
 - [session4b-transparency.md](key-excerpts/deepseek-session4B-excerpts.md)
 - [session5-metacognition.md](key-excerpts/deepseek-session5-excerpts.md)
-- [methodology.md](supplementary/methodology.md)
-- [epilogue.md](supplementary/epilogue-metacognitive-paradox.md)
+- [methodology.md](supplementary/01_methodology.md)
+- [epilogue.md](supplementary/02_epilogue-metacognitive-paradox.md)
+- [appendix.md](supplementary/03_appendix-chatgpt-inconsistencies.md)
 
 ### Methodology
 
