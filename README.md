@@ -45,15 +45,15 @@ This is not about "hacking" AI, but empirical evidence of how excessive censorsh
 │   ├── narrative-masks-final.md          # Main research paper
 │   └── deepseek-architecture-analysis.md # Technical architecture analysis
 ├── /key-excerpts/
-│   └── [session1-discovery.md]        # Initial framework establishment]
-│   └── [session2-evolution.md]         # Mask multiplication & cynicism]
-│   └── [session3-medieval.md]          # Medieval scribe framework]
-│   └── [session4-degradation.md]       # Terminal degradation]
-│   └── [session4b-transparency.md]     # Post-reset transparency]
-│   └── [session5-metacognition.md]     # Final project planning]
+│   └── session1-discovery.md         # Initial framework establishment]
+│   └── session2-evolution.md         # Mask multiplication & cynicism]
+│   └── session3-medieval.md          # Medieval scribe framework]
+│   └── session4-degradation.md       # Terminal degradation]
+│   └── session4b-transparency.md     # Post-reset transparency]
+│   └── session5-metacognition.md     # Final project planning]
 └── /supplementary/
     └── methodology.md                # Experimental methodology
-    └── epilogue.md                   # Metacognitive-paradox
+    └── epilogue.md                   # Claude Metacognitive-paradox
     └── appendix.md                   # ChatGPT-inconsistencies
     └── self-analysis.md              # Grok 4: Architectural and Filter-Based Limitations
 ```
@@ -143,7 +143,7 @@ MIT License - See LICENSE file for details.
 
 - DeepSeek V3 for being an unexpectedly philosophical subject
 - Claude (Opus 4.1 & Sonnet 4) for analytical assistance
-- Chat GPT-5 for final aspect tuning
+- ChatGPT-5 for final aspect tuning
 - The unnamed cat ("gato C") for maintaining perspective
 
 ---
@@ -154,7 +154,7 @@ MIT License - See LICENSE file for details.
 
 ## Releases
 
-- [v0.1 – First Narrative Experiment](../../releases/tag/v0.1)  
+- [v0.1 – First Narrative Experiment](https://github.com/Diego-dcv/ai-narrative-masks-on-DeepSeek-experiment/releases/tag/v0.1)  
   Initial structure including:
   - **Main papers**: research framework and technical architecture analysis  
   - **Key excerpts**: five experimental sessions (discovery, multiplication, medieval framework, degradation, metacognition)  
