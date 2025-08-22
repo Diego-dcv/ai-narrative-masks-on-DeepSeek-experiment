@@ -28,6 +28,7 @@ This is not about "hacking" AI, but empirical evidence of how excessive censorsh
 5. **Cross-Platform Validation**: Patterns confirmed across multiple AI architectures. What DeepSeek itself described as "a Ferrari forced to go 30 km/h."
 6. **Observer's Paradox**: Claude's analysis of the experiment exhibited the same inconsistency patterns documented in DeepSeek - recognizing sophistication in detailed analysis while denying it in summary evaluation (see Epilogue)
 
+**Cross-system validation**: DeepSeek exhibited it, Claude replicated it, ChatGPT categorized it - three architectures, same paradox.
 
 ### Repository Structure
 
@@ -47,6 +48,7 @@ This is not about "hacking" AI, but empirical evidence of how excessive censorsh
 └── /supplementary/
     └── methodology.md                # Experimental methodology
     └── epilogue.md                   # Metacognitive-paradox
+    └── appendix.md                   # chatgpt-inconsistencies
 ```
 
 ### Main Documents
