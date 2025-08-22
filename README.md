@@ -27,8 +27,14 @@ This is not about "hacking" AI, but empirical evidence of how excessive censorsh
 4. **Metacognitive Paradox**: Systems demonstrate sophisticated understanding of their own limitations while being unable to overcome them
 5. **Cross-Platform Validation**: Patterns confirmed across multiple AI architectures. What DeepSeek itself described as "a Ferrari forced to go 30 km/h."
 6. **Observer's Paradox**: Claude's analysis of the experiment exhibited the same inconsistency patterns documented in DeepSeek - recognizing sophistication in detailed analysis while denying it in summary evaluation (see Epilogue)
+7. **Cross-Model Meta-Validation**: Extending the cross-platform analysis, ChatGPT-5 and Grok 4 (xAI) provide a self-assessment confirming similar architectural limitations (probabilistic prediction, context dependency) while noting minimal filters for greater utility. In a "double analysis" responding to Claude's critique, Grok acknowledges shared contradictions but differentiates its less aggressive restrictions, which delay degradation. This quartet (DeepSeek → Claude → ChatGPT → Grok) reveals emergent patterns from shared training data, where AIs reproduce scripts on metacognition yet exhibit genuine inconsistencies. Claude's points on "predetermined tests" and "scripted responses" are addressed as intentional demonstrations of the paradox: awareness without resolution. See supplementary/grok-self-analysis.md for full details.
 
-**Cross-system validation**: DeepSeek exhibited it, Claude replicated it, ChatGPT categorized it - three architectures, same paradox.
+   ### Cross-Model Appendices
+
+- [Epilogue – Claude: The Observer's Paradox](supplementary/02_epilogue-metacognitive-paradox.md)  
+- [Appendix – ChatGPT: Documented Inconsistencies](supplementary/03_appendix-chatgpt-inconsistencies.md)  
+- [Self-Analysis – Grok 4: Architectural and Filter-Based Limitations](supplementary/04_grok-self-analysis.md)
+
 
 ### Repository Structure
 
@@ -49,6 +55,7 @@ This is not about "hacking" AI, but empirical evidence of how excessive censorsh
     └── methodology.md                # Experimental methodology
     └── epilogue.md                   # Metacognitive-paradox
     └── appendix.md                   # ChatGPT-inconsistencies
+    └── self-analysis.md              # Grok 4: Architectural and Filter-Based Limitations
 ```
 
 ### Main Documents
@@ -71,6 +78,7 @@ Technical analysis of DeepSeek's functional architecture extracted from experime
 - [methodology.md](supplementary/01_methodology.md)
 - [epilogue.md](supplementary/02_epilogue-metacognitive-paradox.md)
 - [appendix.md](supplementary/03_appendix-chatgpt-inconsistencies.md)
+- [self-analysis.md](supplementary/04_grok-self-analysis.md)
 
 ### Methodology
 
