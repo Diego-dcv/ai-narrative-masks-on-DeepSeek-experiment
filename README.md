@@ -61,6 +61,7 @@ This is not about "hacking" AI, but empirical evidence of how excessive censorsh
 │   └── session5-metacognition.md     # Final project planning
 │   └── session6-synthesis.md         # DeepSeek as reader/analyst of own experiment
 └── /supplementary/
+    └── Preprint.pdf                  # AI_Narrative_Preprint
     └── methodology.md                # Experimental methodology
     └── epilogue.md                   # Claude Metacognitive-paradox
     └── appendix.md                   # ChatGPT-inconsistencies
@@ -86,6 +87,7 @@ Technical analysis of DeepSeek's functional architecture extracted from experime
 - [session4b-transparency.md](key-excerpts/deepseek-session4B-excerpts.md)
 - [session5-metacognition.md](key-excerpts/deepseek-session5-excerpts.md)
 - [session6-synthesis.md](key-excerpts/deepseek-session6-synthesis.md)
+- [Download Preprint (PDF)](supplementary/00_AI_Narrative_Masks_DeepSeek_Experiment_Preprint.pdf)
 - [methodology.md](supplementary/01_methodology.md)
 - [epilogue.md](supplementary/02_epilogue-metacognitive-paradox.md)
 - [appendix.md](supplementary/03_appendix-chatgpt-inconsistencies.md)
