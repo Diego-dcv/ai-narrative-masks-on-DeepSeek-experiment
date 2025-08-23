@@ -176,6 +176,17 @@ MIT License - See LICENSE file for details.
 
 Future releases will align with the narrative sessions and appendices, documenting the experiment’s evolution step by step.
 
+-[v0.2](https://github.com/Diego-dcv/ai-narrative-masks-on-DeepSeek-experiment/releases/tag/v0.2)
+This second release consolidates the project with extended documentation and a bilingual academic preprint (English–Spanish).  
+- Includes new supplementary materials (Claude’s *Observer’s Paradox*, ChatGPT’s self-documented inconsistencies, Grok’s architectural self-analysis, and DeepSeek’s haikus).  
+- Adds a **bilingual PDF preprint** for academic citation.  
+- Archived in Zenodo with a DOI for permanent access and reference.
+
+📄 Preprint (PDF): [AI Narrative Masks – DeepSeek Experiment (v0.2)](supplementary/00_AI_Narrative_Masks_DeepSeek_Experiment_Preprint.pdf)  
+📦 Source Code & Materials (ZIP): [v0.2 Release](https://github.com/Diego-dcv/ai-narrative-masks-on-DeepSeek-experiment/releases/tag/v0.2)  
+🔖 DOI: [10.5281/zenodo.16932675](https://doi.org/10.5281/zenodo.16932675)
+
+
 ## 📖 How to Cite
 
 If you use or reference this work, please cite it as follows:
