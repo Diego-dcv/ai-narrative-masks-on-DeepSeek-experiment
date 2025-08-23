@@ -176,3 +176,23 @@ MIT License - See LICENSE file for details.
 
 Future releases will align with the narrative sessions and appendices, documenting the experiment’s evolution step by step.
 
+## 📖 How to Cite
+
+If you use or reference this work, please cite it as follows:
+
+**APA (7th edition):**  
+Carreño Vicente, D. M. (2025). *AI Narrative Masks – DeepSeek Experiment (v0.2).* Zenodo. https://doi.org/10.5281/zenodo.16932675  
+
+**BibTeX:**  
+```bibtex
+@misc{carreno2025_ai_narrative_masks_v02,
+  author       = {Diego María Carreño Vicente},
+  title        = {AI Narrative Masks -- DeepSeek Experiment (v0.2)},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16932675},
+  url          = {https://doi.org/10.5281/zenodo.16932675},
+  note         = {Extended documentation \& bilingual preprint}
+}
+
+
